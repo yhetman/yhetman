@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I'm Yuliia Hetman !</h1>
 <h3 align="center">Currently working as Data Engineer</h3>
-<h4 align="center">But in fact, my competence does not end after building a data flow, because I specialize in data analysis, especially when it comes to finding hidden dependencies. So far, my conscience does not allow me to call myself a data scientist. Because I believe that in order to call yourself that, you must have a Ph.D. or years of working experience. I study applied statistics at the Faculty of Computer Science and Cybernetics at the Taras Shevchenko National University of Kyiv and this year I am finishing my Bachelor's degree in Systems Analyst. Although I don't have enough experience yet, it's easy to fix because I'm about to become a data science professional.</h4>
+<h3 align="center">Studing Applied Statistics at the Faculty of Computer Science and Cybernetics at the Taras Shevchenko National University of Kyiv and this year I am finishing my Bachelor's degree in Systems Analyst</h3>
+<h3 align="center">I'm on my way to becoming a Data Science professional.</h3>
 
 ## You can contact me with:
 
@@ -120,7 +121,9 @@
 <br />
 <img align="left" title="IBM Watson" alt="IBM Watson" width="200px" src="https://ibsintelligence.com/wp-content/uploads/2017/11/m5xbsgp3zxjvkztcxo4o-1.png" />
 <img align="left" title="IBM Cognos Analytics" alt="IBM Cognos Analytics" width="320px" src="https://logodix.com/logo/1939187.png" />
-
+<br />
+<br />
+<br />
 
 
 [telegram]: https://t.me/south_julia
