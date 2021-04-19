@@ -46,7 +46,7 @@
 
 <img align="left" title="Tensorflow" alt="Tensorflow" width="270px" src="https://cdn.freelogovectors.net/wp-content/uploads/2018/07/tensorflow-logo.png" />
 <img align="left" title="Keras" alt="Keras" width="220px" src="https://s3.amazonaws.com/keras.io/img/keras-logo-2018-large-1200.png" />
-<img align="left" title="OpenCV" alt="OpenCV" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/1200px-OpenCV_Logo_with_text_svg_version.svg.png"/>
+<img align="right" title="OpenCV" alt="OpenCV" width="120px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/1200px-OpenCV_Logo_with_text_svg_version.svg.png"/>
 <br />
 <br />
 <br />
@@ -72,7 +72,7 @@
 
 ## Data Visualization:
 
-<img align="right" title="Plotly" alt="Plotly" width="260px" src="https://rapids.ai/assets/images/Plotly_Dash_logo.png" />
+<img align="right" title="Plotly" alt="Plotly" width="300px" src="https://rapids.ai/assets/images/Plotly_Dash_logo.png" />
 <img align="right" title="ggplot2" alt="ggplot2" width="130px" src="https://ggplot2.tidyverse.org/logo.png" />
 <br />
 <br />
