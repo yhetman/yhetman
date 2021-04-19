@@ -46,7 +46,7 @@
 
 <img align="left" title="Tensorflow" alt="Tensorflow" width="270px" src="https://cdn.freelogovectors.net/wp-content/uploads/2018/07/tensorflow-logo.png" />
 <img align="left" title="Keras" alt="Keras" width="220px" src="https://s3.amazonaws.com/keras.io/img/keras-logo-2018-large-1200.png" />
-<img align="left" title="OpenCV" alt="OpenCV" width="120px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/1200px-OpenCV_Logo_with_text_svg_version.svg.png"/>
+<img align="left" title="OpenCV" alt="OpenCV" width="90px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/1200px-OpenCV_Logo_with_text_svg_version.svg.png"/>
 <br />
 <br />
 <br />
@@ -59,12 +59,14 @@
 <br />
 <br />
 <br />
-
 <img align="left" title="scipy" alt="scipy" width="90px" src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/scipy.svg" />
-
 <img align="left" title="Pandas" alt="Pandas" width="180px" src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/pandas.svg" />
 <img align="left" title="NumPy" alt="NumPy" width="180px" src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/numpy.svg" />
-<img align="left" title="SparkML" alt="SparkML" width="120px" src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/spark.svg" />
+<br />
+<br />
+<br />
+<br />
+<img align="left" title="SparkML" alt="SparkML" width="200px" src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/spark.svg" />
 <br />
 <br />
 <br />
@@ -88,7 +90,9 @@
 <img align="left" title="Microsoft SQL Server" alt="Microsoft SQL Server" width="150px" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" />
 <br />
 <br />
-<img align="left" title="Postgres" alt="Postgres" width="200px" src="https://softwareengineeringdaily.com/wp-content/uploads/2016/10/PostgreSQL.png" />
+<img align="left" title="Postgres" alt="Postgres" width="300px" src="https://softwareengineeringdaily.com/wp-content/uploads/2016/10/PostgreSQL.png" />
+<br />
+<br />
 <br />
 <br />
 <br />
