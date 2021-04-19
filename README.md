@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Yuliia Hetman !</h1>
 <h3 align="center">Currently working as Data Engineer</h3>
-<h3 align="center">In heart I'm Data Scientist</h3>
+<h4 align="center">But in fact, my competence does not end after building a data flow, because I specialize in data analysis, especially when it comes to finding hidden dependencies. So far, my conscience does not allow me to call myself a data scientist. Because I believe that in order to call yourself that, you must have a Ph.D. or years of working experience.</h4>
 
 ## You can contact me with:
 
