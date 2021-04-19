@@ -52,6 +52,8 @@
 <br />
 <br />
 <br />
+<br />
+<br />
 <img align="left" title="scikit-learn" alt="scikit-learn" width="140px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png" />
 <img align="left" title="Caffe" alt="Caffe" width="120px" src="https://raw.githubusercontent.com/valohai/ml-logos/master/caffe.svg" />
 <img align="left" title="PyTorch" alt="PyTorch" width="200px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/PyTorch_logo_black.svg/1200px-PyTorch_logo_black.svg.png" />
@@ -66,7 +68,7 @@
 <br />
 <br />
 <br />
-<img align="left" title="SparkML" alt="SparkML" width="200px" src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/spark.svg" />
+<img align="left" title="SparkML" alt="SparkML" width="120px" src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/spark.svg" />
 <br />
 <br />
 <br />
