@@ -46,7 +46,7 @@
 
 <img align="left" title="Tensorflow" alt="Tensorflow" width="270px" src="https://cdn.freelogovectors.net/wp-content/uploads/2018/07/tensorflow-logo.png" />
 <img align="left" title="Keras" alt="Keras" width="220px" src="https://s3.amazonaws.com/keras.io/img/keras-logo-2018-large-1200.png" />
-<img align="right" title="OpenCV" alt="OpenCV" width="120px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/1200px-OpenCV_Logo_with_text_svg_version.svg.png"/>
+<img align="left" title="OpenCV" alt="OpenCV" width="120px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/1200px-OpenCV_Logo_with_text_svg_version.svg.png"/>
 <br />
 <br />
 <br />
@@ -104,7 +104,7 @@
 <br />
 <br />
 <br />
-<img align="left" title="Tableau" alt="Tableau" width="400px" src="https://upload.wikimedia.org/wikipedia/ru/thumb/0/06/Tableau_logo.svg/1280px-Tableau_logo.svg.png" />
+<img align="left" title="Tableau" alt="Tableau" width="380px" src="https://upload.wikimedia.org/wikipedia/ru/thumb/0/06/Tableau_logo.svg/1280px-Tableau_logo.svg.png" />
 <img align="left" title="Kibana" alt="Kibana" width="200px" src="https://www.pngkey.com/png/full/63-634023_kibana-logo-color-h-kibana-logo-png.png" />
 <img align="right" title="Colab" alt="Colab" width="200px" src="https://dimensionless.in/wp-content/uploads/2019/03/colab_cover.png" />
 <br />
