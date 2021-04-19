@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Yuliia Hetman !</h1>
 <h3 align="center">Currently working as Data Engineer</h3>
-<h3 align="center">Studing Applied Statistics at the Faculty of Computer Science and Cybernetics at the Taras Shevchenko National University of Kyiv and this year I am finishing my Bachelor's degree in Systems Analyst</h3>
+<h3 align="center">Studing Applied Statistics at Faculty of Computer Sciences and Cybernetics at Taras Shevchenko National University of Kyiv and this year I am finishing my Bachelor's degree in System analysis</h3>
 <h3 align="center">I'm on my way to becoming a Data Science professional.</h3>
 
 ## You can contact me with:
