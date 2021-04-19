@@ -28,6 +28,10 @@
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
+<br />
 
 <img align="left" title="Cython" alt="Cython" width="200px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Cython-logo.svg/1200px-Cython-logo.svg.png" />
 
@@ -45,15 +49,20 @@
 <img align="left" title="Tensorflow" alt="Tensorflow" width="270px" src="https://cdn.freelogovectors.net/wp-content/uploads/2018/07/tensorflow-logo.png" />
 <img align="left" title="Keras" alt="Keras" width="220px" src="https://s3.amazonaws.com/keras.io/img/keras-logo-2018-large-1200.png" />
 <img align="left" title="OpenCV" alt="OpenCV" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/1200px-OpenCV_Logo_with_text_svg_version.svg.png"/>
+<br />
+<br />
+<br />
+<br />
 <img align="right" title="PyTorch" alt="PyTorch" width="250px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/PyTorch_logo_black.svg/1200px-PyTorch_logo_black.svg.png" />
-
-
-<br />
-<br />
-<br />
-<br />
 <img align="left" title="scikit-learn" alt="scikit-learn" width="140px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png" />
 <img align="left" title="Caffe" alt="Caffe" width="120px" src="https://raw.githubusercontent.com/valohai/ml-logos/master/caffe.svg" />
+
+
+<br />
+<br />
+<br />
+<br />
+
 <img align="left" title="scipy" alt="scipy" width="90px" src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/scipy.svg" />
 
 <img align="left" title="Pandas" alt="Pandas" width="180px" src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/pandas.svg" />
@@ -91,15 +100,15 @@
 ## Business Intelligence and Cloud Services:
 
 <img align="left" title="Power BI" alt="Power BI" width="400px" src="https://cdn.freelogovectors.net/wp-content/uploads/2017/04/power-bi_logo.png" />
-<img align="left" title="IBM SPSS" alt="IBM SPSS" width="500px" src="https://webcms.colostate.edu/ramtech/media/sites/136/2017/02/SPSS-transparent-web-banner.png" />
+<img align="left" title="IBM SPSS" alt="IBM SPSS" width="400px" src="https://webcms.colostate.edu/ramtech/media/sites/136/2017/02/SPSS-transparent-web-banner.png" />
 <br />
 <br />
 <br />
 <br />
 <br />
-<img align="left" title="Tableau" alt="Tableau" width="400px" src="https://upload.wikimedia.org/wikipedia/ru/thumb/0/06/Tableau_logo.svg/1280px-Tableau_logo.svg.png" />
-<img align="left" title="Kibana" alt="Kibana" width="250px" src="https://www.pngkey.com/png/full/63-634023_kibana-logo-color-h-kibana-logo-png.png" />
-<img align="left" title="Colab" alt="Colab" width="230px" src="https://dimensionless.in/wp-content/uploads/2019/03/colab_cover.png" />
+<img align="left" title="Tableau" alt="Tableau" width="300px" src="https://upload.wikimedia.org/wikipedia/ru/thumb/0/06/Tableau_logo.svg/1280px-Tableau_logo.svg.png" />
+<img align="left" title="Kibana" alt="Kibana" width="200px" src="https://www.pngkey.com/png/full/63-634023_kibana-logo-color-h-kibana-logo-png.png" />
+<img align="left" title="Colab" alt="Colab" width="20px" src="https://dimensionless.in/wp-content/uploads/2019/03/colab_cover.png" />
 <br />
 <br />
 <br />
