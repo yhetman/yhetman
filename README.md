@@ -13,6 +13,8 @@
 
 ## Languages:
 
+<br />
+<br />
 <img align="left" title="Python" alt="Python" width="100px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
 
 <img align="left" title="C" alt="C" width="100px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" />
@@ -42,7 +44,6 @@
 <br />
 <br />
 <br />
-<br />
 
 ## Data Processing:
 
@@ -53,11 +54,10 @@
 <br />
 <br />
 <br />
-<img align="right" title="PyTorch" alt="PyTorch" width="250px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/PyTorch_logo_black.svg/1200px-PyTorch_logo_black.svg.png" />
+<br />
 <img align="left" title="scikit-learn" alt="scikit-learn" width="140px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png" />
 <img align="left" title="Caffe" alt="Caffe" width="120px" src="https://raw.githubusercontent.com/valohai/ml-logos/master/caffe.svg" />
-
-
+<img align="left" title="PyTorch" alt="PyTorch" width="250px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/PyTorch_logo_black.svg/1200px-PyTorch_logo_black.svg.png" />
 <br />
 <br />
 <br />
@@ -106,9 +106,10 @@
 <br />
 <br />
 <br />
+<br />
 <img align="left" title="Tableau" alt="Tableau" width="300px" src="https://upload.wikimedia.org/wikipedia/ru/thumb/0/06/Tableau_logo.svg/1280px-Tableau_logo.svg.png" />
 <img align="left" title="Kibana" alt="Kibana" width="200px" src="https://www.pngkey.com/png/full/63-634023_kibana-logo-color-h-kibana-logo-png.png" />
-<img align="left" title="Colab" alt="Colab" width="20px" src="https://dimensionless.in/wp-content/uploads/2019/03/colab_cover.png" />
+<img align="right" title="Colab" alt="Colab" width="200px" src="https://dimensionless.in/wp-content/uploads/2019/03/colab_cover.png" />
 <br />
 <br />
 <br />
