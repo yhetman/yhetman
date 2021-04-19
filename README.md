@@ -25,9 +25,6 @@
 <img align="left" title="SQL" alt="SQL" width="100px" src="https://cdn4.iconfinder.com/data/icons/flat-pro-database-set-1/32/sql-badge-512.png" />
 
 <img align="left" title="Dart" alt="Dart" width="220px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Dart_programming_language_logo.svg/1024px-Dart_programming_language_logo.svg.png" />
-
-<br />
-<br />
 <br />
 <br />
 <br />
@@ -57,7 +54,7 @@
 <br />
 <img align="left" title="scikit-learn" alt="scikit-learn" width="140px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png" />
 <img align="left" title="Caffe" alt="Caffe" width="120px" src="https://raw.githubusercontent.com/valohai/ml-logos/master/caffe.svg" />
-<img align="left" title="PyTorch" alt="PyTorch" width="250px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/PyTorch_logo_black.svg/1200px-PyTorch_logo_black.svg.png" />
+<img align="left" title="PyTorch" alt="PyTorch" width="200px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/PyTorch_logo_black.svg/1200px-PyTorch_logo_black.svg.png" />
 <br />
 <br />
 <br />
@@ -107,7 +104,7 @@
 <br />
 <br />
 <br />
-<img align="left" title="Tableau" alt="Tableau" width="300px" src="https://upload.wikimedia.org/wikipedia/ru/thumb/0/06/Tableau_logo.svg/1280px-Tableau_logo.svg.png" />
+<img align="left" title="Tableau" alt="Tableau" width="400px" src="https://upload.wikimedia.org/wikipedia/ru/thumb/0/06/Tableau_logo.svg/1280px-Tableau_logo.svg.png" />
 <img align="left" title="Kibana" alt="Kibana" width="200px" src="https://www.pngkey.com/png/full/63-634023_kibana-logo-color-h-kibana-logo-png.png" />
 <img align="right" title="Colab" alt="Colab" width="200px" src="https://dimensionless.in/wp-content/uploads/2019/03/colab_cover.png" />
 <br />
