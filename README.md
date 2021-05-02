@@ -20,7 +20,9 @@
 
 ## *Data Visualization:*
 
- <img align=" " title="matplotlib" alt="matplotlib" width="100px" src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/matplotlib.svg" />&nbsp;&nbsp;&nbsp;&nbsp; <img align=" " title="seaborn" alt="seaborn" width="120px" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" /> &nbsp;&nbsp;&nbsp;&nbsp; <img align=" " title="Plotly" alt="Plotly" width="150px" src="https://rapids.ai/assets/images/Plotly_Dash_logo.png" /> &nbsp;&nbsp;&nbsp;&nbsp; <img align=" " title="ggplot2" alt="ggplot2" height="70px" src="https://ggplot2.tidyverse.org/logo.png" /> 
+ <img align=" " title="matplotlib" alt="matplotlib" width="100px" src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/matplotlib.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+ 
+<br /><img align=" " title="seaborn" alt="seaborn" width="120px" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" /> &nbsp;&nbsp;&nbsp;&nbsp; <img align=" " title="Plotly" alt="Plotly" width="150px" src="https://rapids.ai/assets/images/Plotly_Dash_logo.png" /> &nbsp;&nbsp;&nbsp;&nbsp; <img align=" " title="ggplot2" alt="ggplot2" height="70px" src="https://ggplot2.tidyverse.org/logo.png" /> 
 
 ## *Databases :*
 
