@@ -26,8 +26,13 @@
 <img align="left" title="SQL" alt="SQL" width="100px" src="https://cdn4.iconfinder.com/data/icons/flat-pro-database-set-1/32/sql-badge-512.png" />
 
 <img align="left" title="Dart" alt="Dart" width="220px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Dart_programming_language_logo.svg/1024px-Dart_programming_language_logo.svg.png" />  
+<br />
+<br />
+<br />
+<br />
 <img align="left" title="Cython" alt="Cython" width="200px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Cython-logo.svg/1200px-Cython-logo.svg.png" />
 <img align="left" title="Bash" alt="Bash" width="200px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/1200px-Gnu-bash-logo.svg.png" />   
+
 ## Data Processing:
 
 <img align="left" title="Tensorflow" alt="Tensorflow" width="270px" src="https://cdn.freelogovectors.net/wp-content/uploads/2018/07/tensorflow-logo.png" />
