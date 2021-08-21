@@ -1,7 +1,6 @@
 
 
 # ***Hi, I'm Yuliia Hetman !***
-
 #### **Currently working as Data Engineer.**
 
 ##### *Studing Applied Statistics at Faculty of Computer Sciences and Cybernetics at Taras Shevchenko National University of Kyiv and this year I am finishing my Bachelor's degree in System analysis I'm on my way to becoming a Data Science professional.*
