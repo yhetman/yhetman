@@ -1,14 +1,17 @@
 
 
 # ***Hi, I'm Yuliia Hetman !***
-#### **Currently working as Data Engineer.**
+#### **Currently working as Data Engineer at U.Stork Lab**
 
-##### *Studing Applied Statistics at Faculty of Computer Sciences and Cybernetics at Taras Shevchenko National University of Kyiv and this year I am finishing my Bachelor's degree in System analysis I'm on my way to becoming a Data Science professional.*
+##### *I am gaining my Master's degree in Artificial Intelligence at Faculty of Computer Sciences and Cybernetics at Taras Shevchenko National University of Kyiv, where I also finished my Bachelor's degree in System analysis. I'm on my way to becoming a Data Science professional.*
 
 ##  *You can contact me with:*
 
 [<img align="left" alt="Telegram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<img align="" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img align="" alt="Mail" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail] 
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=yhetmans&show_icons=true&theme=synthwave&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yhetman)](https://github.com/anuraghazra/github-readme-stats)
 
 ## *Languages:*
 <img align="left" title="Python" alt="Python" width="80px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img align="" title="C" alt="C" width="80px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img align="" title="C++" alt="C++" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" />  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img align="" title="R" alt="R" width="90px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img align="" title="SQL" alt="SQL" width="90px" src="https://cdn4.iconfinder.com/data/icons/flat-pro-database-set-1/32/sql-badge-512.png" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img align="" title="Dart" alt="Dart" height="70px" width="200px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Dart_programming_language_logo.svg/1024px-Dart_programming_language_logo.svg.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img align="" title="Cython" alt="Cython" width="150px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Cython-logo.svg/1200px-Cython-logo.svg.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img align="" title="Bash" alt="Bash" width="150px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/1200px-Gnu-bash-logo.svg.png" />
