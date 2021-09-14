@@ -5,11 +5,11 @@
 
 ##### *I am gaining my Master's degree in Artificial Intelligence at Faculty of Computer Sciences and Cybernetics at Taras Shevchenko National University of Kyiv, where I also finished my Bachelor's degree in System analysis. I'm on my way to becoming a Data Science professional.*
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=yhetman&show_icons=true&theme=tokyonight&count_private=true)
+
 ##  *You can contact me with:*
 
 [<img align="left" alt="Telegram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<img align="" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img align="" alt="Mail" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail] 
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=yhetman&show_icons=true&theme=tokyonight&count_private=true)
 
 ## *Languages:*
 
