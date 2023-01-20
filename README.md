@@ -5,7 +5,10 @@
 
 ##### *I am finishing my Master's degree in Artificial Intelligence at Faculty of Computer Sciences and Cybernetics at Taras Shevchenko National University of Kyiv, where I also finished my Bachelor's degree in System analysis.*
 
+
+<!---
 ![Github stats](https://github-readme-stats.vercel.app/api?username=yhetman&show_icons=true&theme=tokyonight&count_private=true)
+-->
 
 ##  *You can contact me with:*
 
