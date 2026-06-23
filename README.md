@@ -1,7 +1,7 @@
 
 
 # ***Hi, I'm Yuliia Hetman !***
-#### **Currently working as Data Engineer at U.Stork Lab**
+#### **Currently working as Data Scientist at U.Stork Lab**
 
 ##### *I am finishing my Master's degree in Artificial Intelligence at Faculty of Computer Sciences and Cybernetics at Taras Shevchenko National University of Kyiv, where I also finished my Bachelor's degree in System analysis.*
 
